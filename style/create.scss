@@ -1,0 +1,71 @@
+$width: 15px;
+
+.main {
+  .su {
+    width: 100px;
+    float: right;
+    position: relative;
+    top: -50px;
+  }
+
+  .line {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid black;
+    margin: 1em 0;
+    padding: 0;
+  }
+
+  .field {
+    width: $width;
+    left: 153px;
+    position: relative;
+    top: -38px;
+  }
+
+  .title {
+    width: $width;
+    right: 110px;
+    position: relative;
+    bottom: -49px;
+    padding-right: 20px;
+    height: 25px;
+  }
+
+  .input {
+    width: $width;
+    left: 30px;
+    position: relative;
+    top: 27px;
+  }
+
+  .select {
+    width: $width;
+    left: 30px;
+    position: relative;
+    top: 34px;
+  }
+
+  .put {
+    width: $width;
+    left: 164px;
+    position: relative;
+    bottom: 40px;
+  }
+
+  .size {
+    width: $width;
+    left: 96px;
+    position: relative;
+    bottom: 17px;
+    height: 0px;
+  }
+
+  .writen {
+    width: $width;
+    left: 32px;
+    position: relative;
+    bottom: -22px;
+  }
+}

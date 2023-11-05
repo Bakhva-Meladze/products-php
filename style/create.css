@@ -1,0 +1,67 @@
+.main .su {
+    width: 100px;
+    float: right;
+    position: relative;
+    top: -50px;
+}
+
+.main .line {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 2px solid black;
+    margin: 1em 0;
+    padding: 0;
+}
+
+.main .field {
+    width: 15px;
+    left: 153px;
+    position: relative;
+    top: -38px;
+}
+
+.main .title {
+    width: 15px;
+    right: 110px;
+    position: relative;
+    bottom: -49px;
+    padding-right: 20px;
+    height: 25px;
+}
+
+.main .input {
+    width: 15px;
+    left: 30px;
+    position: relative;
+    top: 27px;
+}
+
+.main .select {
+    width: 15px;
+    left: 30px;
+    position: relative;
+    top: 34px;
+}
+
+.main .put {
+    width: 15px;
+    left: 164px;
+    position: relative;
+    bottom: 40px;
+}
+
+.main .size {
+    width: 15px;
+    left: 96px;
+    position: relative;
+    bottom: 17px;
+    height: 0px;
+}
+
+.main .writen {
+    width: 15px;
+    left: 32px;
+    position: relative;
+    bottom: -22px;
+}
